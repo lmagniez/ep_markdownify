@@ -9,3 +9,6 @@ Project page at [projects.f0i.de](https://projects.f0i.de/etherpad/markdownify.m
 
 The plugin ep_linkify by @fourplusone was used to get started with this plugin.
 
+## Modification
+
+Changed the security.js to security

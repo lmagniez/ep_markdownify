@@ -1,32 +1,90 @@
 {
-  "name": "ep_markdownify",
-  "description": "Inline markdown formating.  Format headings, show images, highlight lists, tables and more.",
-  "version": "0.0.3",
-  "author": "f0i <f0i.etherpad@projects.f0i.de>",
+  "_args": [
+    [
+      {
+        "raw": "ep_markdownify",
+        "scope": null,
+        "escapedName": "ep_markdownify",
+        "name": "ep_markdownify",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/home/culnumerique/etherpad-lite"
+    ]
+  ],
+  "_from": "ep_markdownify@latest",
+  "_id": "ep_markdownify@0.0.3",
+  "_inCache": true,
+  "_location": "/ep_markdownify",
+  "_npmUser": {
+    "name": "f0i",
+    "email": "f0i.npm@projects.f0i.de"
+  },
+  "_npmVersion": "1.4.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "ep_markdownify",
+    "scope": null,
+    "escapedName": "ep_markdownify",
+    "name": "ep_markdownify",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/ep_markdownify/-/ep_markdownify-0.0.3.tgz",
+  "_shasum": "0bb755d816cfe99ebe35b3f8b7520230a69e6ec1",
+  "_shrinkwrap": null,
+  "_spec": "ep_markdownify",
+  "_where": "/home/culnumerique/etherpad-lite",
+  "author": {
+    "name": "f0i",
+    "email": "f0i.etherpad@projects.f0i.de"
+  },
+  "bugs": {
+    "url": "https://github.com/f0i/etherpad-plugins/issues"
+  },
   "contributors": [
-  {
-    "name": "Martin Sigloch",
-    "email": "martin.etherpad@projects.f0i.de"
-  },
-  {
-    "name": "Matthias Bartelmeß",
-    "email": "mba@fourplusone.de",
-    "contribution": "reference plugin ep_linkify"
-  },
-  {
-    "name": "John McLear",
-    "email": "john@mclear.co.uk",
-    "contribution": "reference plugin ep_linkify"
-  }
+    {
+      "name": "Martin Sigloch",
+      "email": "martin.etherpad@projects.f0i.de"
+    },
+    {
+      "name": "Matthias Bartelmeß",
+      "email": "mba@fourplusone.de"
+    },
+    {
+      "name": "John McLear",
+      "email": "john@mclear.co.uk"
+    }
   ],
   "dependencies": {},
+  "description": "Inline markdown formating.  Format headings, show images, highlight lists, tables and more.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0bb755d816cfe99ebe35b3f8b7520230a69e6ec1",
+    "tarball": "https://registry.npmjs.org/ep_markdownify/-/ep_markdownify-0.0.3.tgz"
+  },
   "engines": {
     "node": "*"
   },
   "homepage": "https://projects.f0i.de/etherpad/markdownify.md",
-  "devDependencies": {},
+  "maintainers": [
+    {
+      "name": "f0i",
+      "email": "f0i.npm@projects.f0i.de"
+    }
+  ],
+  "name": "ep_markdownify",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/f0i/etherpad-plugins"
-  }
+    "url": "git://github.com/f0i/etherpad-plugins.git"
+  },
+  "version": "0.0.3"
 }
