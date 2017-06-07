@@ -95,10 +95,10 @@ var tags = {
   mdImg: { regex: imgRegex },
   mdImgLink: {
     regex: imgRegex,
-    close: function(string) {
+    /*close: function(string) {
       var url = string.replace(imgRegex, "$2").replace(/\ .*$/, '');
       return '<span><span class="mdImgContainer"><span></span><img src="' + Security.escapeHTMLAttribute(url) + '" /></span></span>';
-    },
+    },*/
     sanatize: mdLinkSanitizingFn
   },
   mdLink: { regex: linkRegex },

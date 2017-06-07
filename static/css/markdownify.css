@@ -4,24 +4,25 @@
 }
 
 .mdHeading.h1 {
-  font-size: 160%;
+  font-size: 170%;
 }
 
 .mdHeading.h2 {
-  font-size: 150%;
-}
-
-.mdHeading.h3 {
-  font-size: 140%;
-}
-
-.mdHeading.h4 {
   font-size: 130%;
 }
 
-.mdHeading.h5 {
-  font-size: 120%;
+.mdHeading.h3 {
+  font-size: 110%;
 }
+
+.mdHeading.h4 {
+  font-size: 105%;
+}
+
+.mdHeading.h5 {
+  font-size: 102%;
+}
+
 
 .mdImgLink > span {
   position: absolute;
@@ -64,6 +65,7 @@
 .mdImg {
   color: blue;
 }
+
 
 .mdCode {
   font-family: monospace;
@@ -127,4 +129,3 @@ span {
   text-shadow: 0 0 2px white;
   z-index: 1;
 }
-
